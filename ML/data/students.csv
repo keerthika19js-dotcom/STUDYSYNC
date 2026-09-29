@@ -1,0 +1,51 @@
+student_id,name,department,year,python_score,mathematics_score,dbms_score,ai_score,study_hours,study_frequency,learning_pace,learning_style,communication_style,preferred_study_time,available_days,study_goal,data_type
+S001,Demo Student,Data Science,3,91.0,52.0,78.0,67.0,3.0,4-5 days,Balanced,Visual,Collaborative,Evening,"Monday,Wednesday,Friday",Exam Preparation,DEMO/SIMULATED
+S002,Aarav Mehta,Computer Science,4,51.0,85.0,43.0,89.0,2.1,1-2 days,Fast,Visual,Discussion-led,Night,"Monday,Wednesday,Friday",Exam Preparation,DEMO/SIMULATED
+S003,Mira Patel,Information Technology,1,95.0,43.0,56.0,74.0,2.0,Daily,Steady,Kinesthetic,Discussion-led,Evening,"Monday,Wednesday,Friday",Assignment,DEMO/SIMULATED
+S004,Ishaan Rao,Information Technology,3,86.0,69.0,47.0,84.0,5.8,4-5 days,Steady,Visual,Focused,Morning,"Monday,Tuesday,Thursday",Coding Practice,DEMO/SIMULATED
+S005,Anaya Shah,Data Science,4,80.0,58.0,95.0,57.0,1.6,Daily,Steady,Reading/Writing,Discussion-led,Evening,"Monday,Wednesday,Sunday",Assignment,DEMO/SIMULATED
+S006,Kabir Nair,Data Science,2,50.0,87.0,44.0,84.0,5.9,3 days,Steady,Kinesthetic,Focused,Night,"Monday,Tuesday,Thursday",Assignment,DEMO/SIMULATED
+S007,Zoya Khan,Information Technology,2,80.0,51.0,55.0,84.0,4.0,3 days,Fast,Auditory,Collaborative,Night,"Wednesday,Friday,Saturday",Coding Practice,DEMO/SIMULATED
+S008,Arjun Das,Data Science,3,82.0,86.0,53.0,79.0,2.1,1-2 days,Balanced,Kinesthetic,Focused,Morning,"Tuesday,Thursday,Saturday",Revision,DEMO/SIMULATED
+S009,Ira Menon,Data Science,4,87.0,62.0,90.0,58.0,5.4,Daily,Steady,Reading/Writing,Collaborative,Afternoon,"Monday,Wednesday,Sunday",Revision,DEMO/SIMULATED
+S010,Dev Kapoor,Information Technology,4,55.0,89.0,79.0,69.0,2.1,3 days,Fast,Kinesthetic,Collaborative,Morning,"Monday,Wednesday,Friday",Assignment,DEMO/SIMULATED
+S011,Riya Bose,Data Science,3,90.0,45.0,85.0,69.0,2.9,Daily,Fast,Reading/Writing,Discussion-led,Morning,"Monday,Wednesday,Friday",General Study,DEMO/SIMULATED
+S012,Neil Thomas,Information Technology,2,76.0,90.0,53.0,81.0,2.5,3 days,Balanced,Visual,Discussion-led,Evening,"Monday,Wednesday,Sunday",Assignment,DEMO/SIMULATED
+S013,Sara Iyer,Computer Science,3,74.0,48.0,82.0,49.0,2.9,3 days,Fast,Visual,Discussion-led,Evening,"Wednesday,Friday,Saturday",Exam Preparation,DEMO/SIMULATED
+S014,Vivaan Jain,Information Technology,2,44.0,85.0,61.0,57.0,5.4,1-2 days,Steady,Kinesthetic,Collaborative,Afternoon,"Tuesday,Thursday,Saturday",General Study,DEMO/SIMULATED
+S015,Tara Sen,Information Technology,4,84.0,56.0,52.0,58.0,5.6,3 days,Fast,Reading/Writing,Focused,Evening,"Wednesday,Friday,Saturday",Revision,DEMO/SIMULATED
+S016,Rehan Ali,Information Technology,1,70.0,49.0,45.0,88.0,1.1,3 days,Fast,Auditory,Collaborative,Morning,"Monday,Wednesday,Friday",Assignment,DEMO/SIMULATED
+S017,Aditi Roy,Information Technology,3,46.0,44.0,86.0,50.0,4.3,3 days,Fast,Auditory,Discussion-led,Night,"Tuesday,Thursday,Saturday",Project Work,DEMO/SIMULATED
+S018,Kian D'Souza,Computer Science,4,56.0,89.0,48.0,48.0,3.1,Daily,Fast,Visual,Discussion-led,Morning,"Monday,Wednesday,Friday",Project Work,DEMO/SIMULATED
+S019,Myra Gupta,Computer Science,3,84.0,49.0,48.0,57.0,3.7,3 days,Balanced,Auditory,Focused,Night,"Tuesday,Thursday,Saturday",Exam Preparation,DEMO/SIMULATED
+S020,Rohan Pillai,Information Technology,3,70.0,77.0,43.0,80.0,5.6,3 days,Steady,Kinesthetic,Focused,Night,"Tuesday,Thursday,Saturday",Project Work,DEMO/SIMULATED
+S021,Diya Joshi,Information Technology,3,45.0,52.0,86.0,55.0,5.6,Daily,Balanced,Kinesthetic,Discussion-led,Night,"Tuesday,Thursday,Saturday",Assignment,DEMO/SIMULATED
+S022,Advik Sethi,Data Science,1,44.0,88.0,45.0,79.0,1.3,Daily,Fast,Auditory,Collaborative,Morning,"Tuesday,Thursday,Saturday",Exam Preparation,DEMO/SIMULATED
+S023,Nisha Verma,Data Science,2,81.0,55.0,85.0,57.0,5.7,3 days,Fast,Visual,Discussion-led,Morning,"Wednesday,Friday,Saturday",General Study,DEMO/SIMULATED
+S024,Samar Reddy,Computer Science,2,79.0,78.0,51.0,84.0,4.3,4-5 days,Steady,Reading/Writing,Focused,Afternoon,"Monday,Tuesday,Thursday",Project Work,DEMO/SIMULATED
+S025,Kiara Malhotra,Data Science,4,62.0,90.0,96.0,57.0,6.0,1-2 days,Fast,Auditory,Discussion-led,Evening,"Tuesday,Thursday,Saturday",Coding Practice,DEMO/SIMULATED
+S026,Yash Kulkarni,Information Technology,2,48.0,92.0,65.0,60.0,5.2,4-5 days,Fast,Visual,Discussion-led,Evening,"Monday,Wednesday,Friday",Assignment,DEMO/SIMULATED
+S027,Aanya Fernandes,Data Science,4,86.0,47.0,48.0,89.0,2.4,3 days,Fast,Reading/Writing,Collaborative,Evening,"Monday,Wednesday,Sunday",Project Work,DEMO/SIMULATED
+S028,Om Prakash,Data Science,4,58.0,45.0,56.0,86.0,1.2,4-5 days,Steady,Reading/Writing,Collaborative,Night,"Monday,Wednesday,Sunday",General Study,DEMO/SIMULATED
+S029,Meera Krishnan,Information Technology,1,69.0,77.0,82.0,45.0,3.7,4-5 days,Fast,Auditory,Focused,Afternoon,"Monday,Wednesday,Friday",Coding Practice,DEMO/SIMULATED
+S030,Dhruv Bhat,Computer Science,3,50.0,81.0,64.0,55.0,2.8,Daily,Fast,Auditory,Collaborative,Afternoon,"Tuesday,Thursday,Saturday",Project Work,DEMO/SIMULATED
+S031,Sana Qureshi,Computer Science,4,85.0,56.0,89.0,63.0,2.3,1-2 days,Balanced,Visual,Focused,Afternoon,"Tuesday,Thursday,Saturday",Project Work,DEMO/SIMULATED
+S032,Parth Ghosh,Data Science,2,64.0,61.0,43.0,84.0,3.0,4-5 days,Steady,Reading/Writing,Focused,Night,"Monday,Wednesday,Sunday",Coding Practice,DEMO/SIMULATED
+S033,Lavanya Rao,Information Technology,3,43.0,49.0,79.0,51.0,1.5,Daily,Balanced,Reading/Writing,Focused,Morning,"Wednesday,Friday,Saturday",Revision,DEMO/SIMULATED
+S034,Ayaan Sheikh,Information Technology,3,56.0,78.0,44.0,87.0,3.6,3 days,Balanced,Kinesthetic,Collaborative,Evening,"Monday,Wednesday,Sunday",Coding Practice,DEMO/SIMULATED
+S035,Pia Chatterjee,Information Technology,3,91.0,52.0,88.0,61.0,2.6,4-5 days,Fast,Auditory,Collaborative,Night,"Wednesday,Friday,Saturday",General Study,DEMO/SIMULATED
+S036,Manav Soni,Information Technology,4,89.0,53.0,52.0,90.0,3.7,1-2 days,Balanced,Reading/Writing,Collaborative,Night,"Monday,Wednesday,Sunday",Revision,DEMO/SIMULATED
+S037,Ishita Paul,Information Technology,3,83.0,62.0,84.0,57.0,3.6,3 days,Fast,Visual,Focused,Evening,"Monday,Wednesday,Friday",Assignment,DEMO/SIMULATED
+S038,Ritvik Naidu,Information Technology,2,47.0,78.0,56.0,54.0,1.2,Daily,Fast,Visual,Focused,Night,"Monday,Wednesday,Sunday",Assignment,DEMO/SIMULATED
+S039,Veda Mishra,Computer Science,2,85.0,55.0,66.0,73.0,1.7,1-2 days,Steady,Kinesthetic,Collaborative,Afternoon,"Monday,Wednesday,Sunday",Project Work,DEMO/SIMULATED
+S040,Atharv Bansal,Information Technology,1,45.0,77.0,57.0,82.0,5.0,4-5 days,Balanced,Kinesthetic,Discussion-led,Night,"Tuesday,Thursday,Saturday",General Study,DEMO/SIMULATED
+S041,Navya Mathew,Data Science,2,72.0,70.0,86.0,50.0,4.8,Daily,Fast,Auditory,Focused,Night,"Monday,Wednesday,Friday",General Study,DEMO/SIMULATED
+S042,Rudra Sen,Computer Science,2,53.0,95.0,59.0,63.0,1.4,3 days,Steady,Kinesthetic,Discussion-led,Afternoon,"Tuesday,Thursday,Saturday",Exam Preparation,DEMO/SIMULATED
+S043,Sia Arora,Data Science,4,91.0,57.0,63.0,76.0,1.3,Daily,Balanced,Visual,Discussion-led,Night,"Wednesday,Friday,Saturday",Exam Preparation,DEMO/SIMULATED
+S044,Kartik Shetty,Information Technology,3,64.0,61.0,56.0,95.0,4.7,3 days,Balanced,Auditory,Focused,Night,"Wednesday,Friday,Saturday",Exam Preparation,DEMO/SIMULATED
+S045,Aisha Mir,Computer Science,2,66.0,63.0,83.0,55.0,5.2,3 days,Fast,Visual,Focused,Morning,"Monday,Wednesday,Friday",General Study,DEMO/SIMULATED
+S046,Shaurya Roy,Information Technology,2,44.0,86.0,71.0,53.0,2.9,3 days,Balanced,Reading/Writing,Focused,Night,"Monday,Tuesday,Thursday",Project Work,DEMO/SIMULATED
+S047,Tanvi Desai,Information Technology,2,89.0,44.0,72.0,43.0,2.1,1-2 days,Fast,Visual,Collaborative,Afternoon,"Tuesday,Thursday,Saturday",Exam Preparation,DEMO/SIMULATED
+S048,Eshan Varma,Information Technology,1,81.0,51.0,58.0,81.0,3.8,3 days,Balanced,Reading/Writing,Focused,Afternoon,"Monday,Wednesday,Sunday",Revision,DEMO/SIMULATED
+S049,Rhea Lal,Data Science,2,89.0,87.0,87.0,48.0,1.5,1-2 days,Balanced,Kinesthetic,Focused,Afternoon,"Monday,Wednesday,Friday",Revision,DEMO/SIMULATED
+S050,Aditya Menon,Information Technology,1,52.0,81.0,57.0,48.0,5.0,1-2 days,Balanced,Kinesthetic,Discussion-led,Evening,"Monday,Wednesday,Friday",Revision,DEMO/SIMULATED
